@@ -10,6 +10,7 @@ h1{
 }
 section{
     display: flex;
+    margin-bottom: 150px;
 }
 .taeif{
     width: 50%;
@@ -32,4 +33,9 @@ section{
 }
 p{
     color:teal;
+}
+.dream-big{
+    background-image: url(Jhankar-mahbub/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position:right;
 }
